@@ -1,0 +1,66 @@
+.h1{
+    display: block;
+    font-size: 50px;
+    color:azure;
+    line-height: 1.2;
+    text-align: center;
+    background: #6a7dfe;
+    background: -webkit-linear-gradient(to left, #21d4fd, #b721ff);
+    background: -o-linear-gradient(to left, #21d4fd, #b721ff);
+    background: -moz-linear-gradient(to left, #21d4fd, #b721ff);
+    background: linear-gradient(to left, #21d4fd, #b721ff);
+    min-height: 100px;
+    padding-top: 25px;
+    
+    
+  }
+
+  .pacientes2{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 150px;
+    background-color: #999999;
+    text-shadow: 2px 2px 5px rgb(99, 60, 105) ;
+    color: white;
+    align-items: center;
+
+    
+  }
+
+  .nome{
+    font-size: 25px;
+    text-align:start;
+    margin-top: 100px;
+
+
+  }
+
+ .idade{
+    font-size: 25px;
+    
+  }
+  .historico{
+    font-size: 25px;
+    
+  }
+  
+
+
+  .botao{   
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    margin-bottom: -90px;
+    text-shadow: 2px 2px 5px rgb(99, 60, 105) ;
+       
+
+  }
+
+          
+
+  
+  
+  
